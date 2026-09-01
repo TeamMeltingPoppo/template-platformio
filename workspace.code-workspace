@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "firmware"
+		},
+		{
+			"name": "python tools",
+			"path": "tools"
+		},
+		{
+			"path": "docs"
+		},
+		{
+			"name": "root",
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 14,
+		"python.terminal.activateEnvironment": false,
+	}
+}
