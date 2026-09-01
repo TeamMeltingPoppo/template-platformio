@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template.kicad_pro",
+    "filename": "circuit.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,8 +656,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "template.kicad_sch",
-        "name": "template",
+        "filename": "circuit.kicad_sch",
+        "name": "circuit",
         "uuid": "02f13201-e0b0-4618-a1e8-3e866f4ca75d"
       }
     ],
@@ -667,7 +667,7 @@
   "sheets": [
     [
       "02f13201-e0b0-4618-a1e8-3e866f4ca75d",
-      "template"
+      "circuit"
     ]
   ],
   "text_variables": {},
